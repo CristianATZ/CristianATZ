@@ -16,31 +16,14 @@
 
 ###
 
-<p align="left">👨‍🎓 I'm studying my last semester of my career Computer Systems Engineering</p>
-
-###
-
-<p align="left">📚 I'm studying at TecNM Campus Sur de Guanajuato</p>
-
-###
-
-<p align="left">🏙️  I'm from Guanajuato, México</p>
-
-###
-
-<p align="left">📱 Looking for a job to get experience in mobile application development</p>
-
-###
-
-<p align="left">🚩I have a strong interest in UX/UI design and mobile development.</p>
-
-###
-
-<p align="left">👀 Looking for a new job opportunity, this is my resume</p>
-
-###
-
-<p align="left"></p>
+<pre>
+  👨‍🎓 I'm in the last semester of my career Computer Systems Engineering
+  📚 I'm studying at TecNM Campus Sur de Guanajuato
+  🏙️ I'm from Guanajuato, México
+  📱 Looking for a job to get experience in mobile application development
+  🚩 I have a strong interest in UX/UI design and mobile development.
+  👀 Looking for a new job opportunity, this is my resume
+</pre>
 
 ###
 
