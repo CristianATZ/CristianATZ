@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -39,10 +35,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
@@ -118,23 +110,14 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h2 align="left">Languages</h2>
 
 ###
 
-<p align="left">- Spanish (Native)</p>
-
-###
-
-<p align="left">- English (Conversational)</p>
-
-###
-
-<p align="left"></p>
+<pre>
+  - Native Spanish
+  - English (Conversational)
+</pre>
 
 ###
 
@@ -149,10 +132,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h2 align="left">Profile views</h2>
 
 ###
@@ -160,10 +139,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/CristianATZ/count.svg?"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
